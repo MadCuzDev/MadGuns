@@ -1,0 +1,8 @@
+main: me.MadGuns.MadCuzDev.MadGuns
+name: MadGuns
+version: 1.0
+author: MadCuzDev
+commands:
+  gun:
+    description: MadGuns main command
+    usage: /gun (gun)
